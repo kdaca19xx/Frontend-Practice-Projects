@@ -1,1 +1,1 @@
-# HTML-Practice
+# Practice-Projects
