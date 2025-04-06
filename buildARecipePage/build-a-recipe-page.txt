@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+
+<title>My Recipe</title> 
+
+<meta charset = "UTF-8">
+
+</head>
+
+<body>
+
+  <h1>Recipe Name</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus.</p>
+
+  <h2>Ingredients</h2>
+
+  <ul>
+    <li>Lorem ipsum</li>
+    <li>Lorem ipsum</li>
+    <li>Lorem ipsum</li>
+    <li>Lorem ipsum</li>
+  </ul> 
+
+  <h2>Instructions</h2> 
+
+  <ol>
+    <li>Lorem ipsum</li>
+    <li>Lorem ipsum</li>
+    <li>Lorem ipsum</li>
+    <li>Lorem ipsum</li>
+  </ol> 
+
+  <img src = "https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt = "a photo of recipe ingredients">
+
+</body>
+
+</html>
