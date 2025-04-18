@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+
+    <h1>Page Topic</h1>
+
+    <p>Paragraph introducing the topic of my page.</p>
+
+    <section>
+        <h2>Title</h2>
+        <p>Video content introduction</p>
+        <iframe src = "viral video" title = "embedded content" height = "300" width = "400"></iframe>
+    </section>
+
+    <section>
+        <h2>Title</h2>
+        <p>Video content introduction</p>
+        <iframe src = "viral video" title = "embedded content" height = "300" width = "400"></iframe>
+    </section>
+
+    <section>
+        <h2>Title</h2>
+        <p>Video content introduction</p>
+        <iframe src = "viral video" title = "embedded content" height = "300" width = "400"></iframe>
+    </section>
+
+</main>
+</body>
+
+</html>
