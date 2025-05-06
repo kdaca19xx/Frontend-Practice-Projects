@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+  }
+  
+  a:link {
+    color: pink;
+  }
+  
+  a:hover {
+    color: orange;
+  }
+  
+  a:active {
+    color: purple;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  a:focus {
+    outline: solid;
+    outline-color: gold;
+  }
+  
+  
