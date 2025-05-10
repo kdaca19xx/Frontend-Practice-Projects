@@ -1,0 +1,74 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+
+    <tbody>
+
+      <tr>
+        <td>Doing Grammar</td>
+        <td>Max Morenberg</td>
+        <td>Education</td>
+        <td>20xx</td>
+      </tr>
+
+      <tr>
+        <td>Rhetorical Grammar</td>
+        <td>Martha Kolln</td>
+        <td>Education</td>
+        <td>20xx</td>
+      </tr>
+
+      <tr>
+        <td>Explaining English Grammar</td>
+        <td>George Yule</td>
+        <td>Education</td>
+        <td>1999</td>
+      </tr>
+
+      <tr>
+        <td>Grammar In Use</td>
+        <td>Raymond Murphy</td>
+        <td>Education</td>
+        <td>20xx</td>
+      </tr>
+
+      <tr>
+        <td>The Grammar Book</td>
+        <td>Marianne Celce-Murcia</td>
+        <td>Education</td>
+        <td>20xx</td>
+      </tr>
+
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books: 5</td>
+      </tr>
+    </tfoot>
+
+  </table>
+</body>
+
+</html>
+
+** end of index.html **
+
