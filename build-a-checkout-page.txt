@@ -1,0 +1,56 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+</head>
+
+<body>
+
+    <h1>Checkout</h1>
+    <section aria-required = "true">
+        <h2>Your Cart</h2>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" alt="Partially twisted Rubik's Cube with mixed colors on a white background">
+    </section>
+
+    <section>
+        <h2>Payment Information</h2>
+        <div>
+        <form>
+
+           <div>
+            <label for="card-name">Cardholder Name</label>
+            <input id="card-name" name="card-name" type="text" required aria-required="true"/>
+            </div>
+
+            <div>
+         <label for="card-number">Card Number</label>
+        <input id="card-number" name="card-number" type="number" required aria-required="true"/>
+            </div>
+
+            <div>
+         <label for="expiration-date">Expiration Date</label>
+        <input id="expiration-date" name="expiration-date" type="text" placeholder="MM/DD" required aria-required="true"/>
+            </div>
+
+            <div>
+         <label for="cvv">CVV</label>
+        <input id="cvv" name="cvv" type="number" required required aria-required="true"/>
+            </div>
+
+        <button type="button">Pay Now</button>
+
+        </form>
+        </div>
+
+    </section>
+
+</body>
+
+</html>
+
+** end of index.html **
+
